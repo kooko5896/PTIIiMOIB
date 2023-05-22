@@ -1,7 +1,7 @@
 ---
 title: "Lab2.1"
 author: "kooko5896"
-date: "2023-04-09"
+date: "2023-05-22"
 output: html_document
 ---
 ## Подключение библиотек
